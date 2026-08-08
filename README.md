@@ -64,7 +64,13 @@ Open the local URL shown in your terminal.
 
 ## 📸 Screenshots
 
-Coming soon.
+### Main Screen
+
+![Meme Generator](public/meme-generator.png)
+
+### Generated Meme
+
+![Generated Meme](public/generated-meme.png)
 
 ## 🌐 Live Demo
 
