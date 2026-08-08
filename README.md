@@ -74,7 +74,7 @@ Open the local URL shown in your terminal.
 
 ## 🌐 Live Demo
 
-Coming soon.
+[😂 Create a Meme](https://meme-generator-lyart-beta.vercel.app/)
 
 ## 👩‍💻 Author
 
